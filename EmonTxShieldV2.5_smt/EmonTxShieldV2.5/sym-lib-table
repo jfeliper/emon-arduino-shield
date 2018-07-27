@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EmonTxShieldV2.5-eagle-import)(type Legacy)(uri ${KIPRJMOD}/EmonTxShieldV2.5-eagle-import.lib)(options "")(descr ""))
+)
